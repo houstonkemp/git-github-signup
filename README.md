@@ -21,4 +21,4 @@ and ensure that the Git executable is pointing to where Git was installed. It wa
 Then in the same settings window, click view public key (click create SSH Key if there is no ssh key there – you don’t need a passphrase). Copy the public key.
 Now go to [here](https://github.com/settings/ssh/new) and paste in the key section.
 
-When you’ve done this and we've added you to the houstonkemp group, see if you can install [this R package](https://github.com/houstonkemp/hkverse) (which contains 3 packages) following the instructions in the readme (noting the bit about creating a personal access token).
+When you’ve done this and we've added you to the houstonkemp group, see if you can install [this R package](https://github.com/houstonkemp/hkverse) (which contains 3 packages) following the instructions in the readme (noting the bit about creating a personal access token). Note that you won't be able to access that URL unless you're signed in to GitHub and you have been added to the group.
