@@ -8,7 +8,7 @@ We use Github to store those files. When you get a chance, please sign up [here]
  
 We can then add you to the [houstonkemp](https://github.com/houstonkemp) group and to any required repositories for project work.
  
-Please also install git from [here](https://git-scm.com/download/win) – you can just accept all the default settings. Once you have installed it, open the Git Bash shell (click Windows and type git bash). In the shell, enter (with the quotes but without the triangle brakcets)
+Please also install git from [here](https://git-scm.com/download/win) – you can just accept all the default settings. Once you have installed it, open the Git Bash shell (click Windows and type git bash). In the shell, enter (with the quotes but without the triangle brackets):
  
  ```
 git config --global user.name "<your name>"
